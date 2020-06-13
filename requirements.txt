@@ -1,0 +1,7 @@
+pandas
+bs4
+requests
+csv
+time
+selenium
+wedriver_manager
